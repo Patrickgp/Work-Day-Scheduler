@@ -1,5 +1,7 @@
 # Work-Day-Scheduler
 
+https://patrickgp.github.io/Work-Day-Scheduler/
+
 This project is for an employee with a busy schedule that wants to add important events to a daily planner so that they can better manage their time. When the user opens the planner the current day is displayed at the top. When they scroll down they are presented with color coded time blocks for standard business hours. Each time block is colored gray, red, or green to indicate past, present, or future. When the user clicks on a time block they can enter an event, pressing the save button for that time block will save that event to local storage. When the user refreshes the page their saved events will persist.
 
 Screenshot of Work Day Scheduler in browser
